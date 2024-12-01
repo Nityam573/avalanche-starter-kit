@@ -1,0 +1,8 @@
+[12-01|06:01:45.823] INFO ux/output.go:13 [0;34m[;1mcreate and run local network from snapshot[0;0m[0;0m
+[12-01|06:01:45.827] INFO local/network.go:475 creating network {"node-num": 1}
+[12-01|06:01:47.129] INFO local/network.go:790 adding node {"node-name": "node1", "node-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1", "log-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1/logs", "db-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1/db", "p2p-port": 9651, "api-port": 9650}
+[12-01|06:01:47.130] INFO local/network.go:820 checking local network healthiness {"num-of-nodes": 1}
+[12-01|06:01:57.872] INFO server/network.go:856 [0;36mprometheus conf file /home/vscode/.avalanche-cli/local/NIT-local-node/prometheus.yaml[0;0m
+[12-01|06:01:57.872] INFO ux/output.go:13 [0;34m[;1mwaiting for all nodes to report healthy...[0;0m[0;0m
+[12-01|06:01:57.872] INFO local/network.go:820 checking local network healthiness {"num-of-nodes": 1}
+[12-01|06:02:53.937] INFO local/network.go:790 adding node {"node-name": "node1", "node-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1", "log-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1/logs", "db-dir": "/home/vscode/.avalanche-cli/local/NIT-local-node/node1/db", "p2p-port": 9651, "api-port": 9650}
